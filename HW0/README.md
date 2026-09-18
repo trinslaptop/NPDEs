@@ -68,3 +68,6 @@ Figure 4.1 shows the known $u$ and the numeric solution. An intentionally small 
 
 ### Part 2
 
+With only Neumann boundary conditions, the resulting matrix is singular and solutions can have a $\pm c$; the PDE problem we want to solve is under-defined (similar to what we saw in class with periodic boundaries). Fixing a single boundary point with a Dirichlet condition should fix this.
+
+I think I ran into a similar problem last year while working on a [gamedev project](https://github.com/SteveBeeblebrox/Minceraft/blob/c22b0dfe6ad8c4da79768b817211555b83d1d3eb/World.hpp#L191-L194), and my solution then was also to fix points.
