@@ -51,7 +51,7 @@ With a manufactured solution $u(x) = \sin(x)$,  $f(x) = \cos(x)\sin(x)$, $u_0 = 
 ## Problem #4
 ### Part 1
 > NOTE: My editor's AI autocomplete suggested a large portion of the boundary implementation (completly unprompted) as I started writing the first loop.
-> It was more or less exactly what I was going to type anyways, but I am not sure how I feel about it. I've since found the setting to turn the AI autocomplete off.
+> It was more or less exactly what I was going to type anyways, but I am not sure how I feel about it. I've since found the setting to turn it off.
 
 <p align="center">
   <img src="content/problem4.1-c.png" />
@@ -63,6 +63,8 @@ With a manufactured solution $u(x) = \sin(x)$,  $f(x) = \cos(x)\sin(x)$, $u_0 = 
   <br>
   <b>Figure 4.2: Second order error of numeric Poisson Equation solution</b>
 </p>
+
+Figure 4.1 shows the known $u$ and the numeric solution. An intentionally small $N$ was chosen so that the approximation is visually different. Paired filled contour plots seemed like the best way to visualize differences in the two surfaces. Figure 4.2 shows that the approximation is second order for both max and average error.
 
 ### Part 2
 
