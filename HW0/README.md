@@ -6,12 +6,12 @@ Trin Wasinger | 20206-09-16
 <p align="center">
   <img src="content/problem1.1.png" />
   <br>
-  <b>Figure 1.1: </b>
+  <b>Figure 1.1: Comparison of exact and numeric 2nd derivatives</b>
 </p>
 <p align="center">
   <img src="content/problem1.2.png" />
   <br>
-  <b>Figure 1.2: </b>
+  <b>Figure 1.2: Error of derivative approximation</b>
 </p>
 
 
@@ -19,12 +19,12 @@ Trin Wasinger | 20206-09-16
 <p align="center">
   <img src="content/problem2.1.png" />
   <br>
-  <b>Figure 2.1: </b>
+  <b>Figure 2.1: Comparison of exact and numeric 2nd derivatives</b>
 </p>
 <p align="center">
   <img src="content/problem2.2.png" />
   <br>
-  <b>Figure 2.2: </b>
+  <b>Figure 2.2: Second order error of 2nd derivative approximation</b>
 </p>
 
 
@@ -32,12 +32,12 @@ Trin Wasinger | 20206-09-16
 <p align="center">
   <img src="content/problem3.1.png" />
   <br>
-  <b>Figure 3.1: </b>
+  <b>Figure 3.1: Comparison of exact and numeric ODE solutions</b>
 </p>
 <p align="center">
   <img src="content/problem3.2.png" />
   <br>
-  <b>Figure 3.2: </b>
+  <b>Figure 3.2: Second order error of ODE solution</b>
 </p>
 
 
@@ -55,7 +55,7 @@ Trin Wasinger | 20206-09-16
 <p align="center">
   <img src="content/problem4.2.png" />
   <br>
-  <b>Figure 4.2: </b>
+  <b>Figure 4.2: Second order error of numeric Poisson Equation solution</b>
 </p>
 
 ### Part 2
