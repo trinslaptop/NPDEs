@@ -14,6 +14,9 @@ Trin Wasinger | 20206-09-16
   <b>Figure 1.2: Error of derivative approximation</b>
 </p>
 
+As seen in Figure 1.1, the numeric approximation for $f_x = \frac{d}{dx} e^{\sin x}$ closely matches the actual derivative; however, note the less accurate end points since only first order forward and back differences were used there while the interior points used a centered difference.
+
+In Figure 1.2, we see that the max error ($p=\infty$) is $O(\frac{1}{N})$ as expected (limited by the first order methods on end points). The average error ($p=2$) is approximatly $O(\frac{1}{N^{3/2}})$ since the second order internal points improve the overall statistic but not enough to make it itself second order.
 
 ## Problem #2
 <p align="center">
@@ -26,6 +29,8 @@ Trin Wasinger | 20206-09-16
   <br>
   <b>Figure 2.2: Second order error of 2nd derivative approximation</b>
 </p>
+
+Using periodicity, the approximation in Figure 2.1 is no longer less acurate at the endpoints than it is internally like was the case in Problem 1. As seen in Figure 2.2, both the max and average error are second order as expected.
 
 
 ## Problem #3
@@ -59,3 +64,4 @@ Trin Wasinger | 20206-09-16
 </p>
 
 ### Part 2
+
