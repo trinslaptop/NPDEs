@@ -48,7 +48,7 @@ Trin Wasinger | 20206-09-16
 > It was more or less exactly what I was going to type anyways, but I am not sure how I feel about it. I've since found the setting to turn the AI autocomplete off.
 
 <p align="center">
-  <img src="content/problem4.1.png" />
+  <img src="content/problem4.1-c.png" />
   <br>
   <b>Figure 4.1: Comparison of exact and numeric Poisson Equation solutions</b>
 </p>
