@@ -45,6 +45,7 @@ Using periodicity, the approximation in Figure 2.1 is no longer less acurate at 
   <b>Figure 3.2: Second order error of ODE solution</b>
 </p>
 
+With a manufactured solution $u(x) = \sin(x)$,  $f(x) = \cos(x)\sin(x)$, $u_0 = \sin 0$, and $u_N = sin(5)$. As shown in Figure 3.2, the approximation is second order.
 
 
 ## Problem #4
